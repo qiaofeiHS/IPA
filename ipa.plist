@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/trembleCat/IPA-Trusteeship/blob/master/ipa.jpg?raw=true</string>
+					<string>https://github.com/qiaofeiHS/IPA/blob/master/ic_logo.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/trembleCat/IPA-Trusteeship/blob/master/ipa.jpg?raw=true</string>
+					<string>https://github.com/qiaofeiHS/IPA/blob/master/ic_logo.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>啦啦啦😋</string>
+				<string>花生即时通讯</string>
 				<key>bundle-version</key>
 				<string>6.2.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.yunzainfo.hbfu.mcampus</string>
+				<string>com.hs.IM</string>
 			</dict>
 		</dict>
 	</array>
