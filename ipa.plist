@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>花生即时通讯</string>
+				<string>一起聊</string>
 				<key>bundle-version</key>
-				<string>6.7</string>
+				<string>6.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
