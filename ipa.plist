@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>182.16.35.109/yiqiliao.ipa?raw=true</string>
+					<string>https://github.com/qiaofeiHS/IPA/blob/master/yiqiliao.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>一起聊</string>
+				<string>一起聊APP</string>
 				<key>bundle-version</key>
 				<string>6.8</string>
 				<key>kind</key>
